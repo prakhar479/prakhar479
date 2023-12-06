@@ -16,7 +16,7 @@ I believe in the power of collaboration. If you have a project that needs an ext
 
 ### 📫 Let's Connect!
 
-I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about leveraging technology for positive change. You can reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or catch up on the latest by following me on [Twitter](https://twitter.com/your-twitter-handle/).
+I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about leveraging technology for positive change. You can reach out to me on [LinkedIn](https://www.linkedin.com/in/prakhar-singhal-a9437b26b/) or catch up on the latest by following me on [Instagram](https://www.instagram.com/prakhar_2218/).
 
 Feel free to explore my repositories, and don't hesitate to drop a star ⭐ if you find something interesting! Let's code, learn, and build together! 🚀
 
