@@ -2,7 +2,7 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=47F71D&center=true&vCenter=true&random=false&width=435&lines=Challenge+Ready;Always+Curious;Motivated+and+Focused;Explorer+and+Risk+Taker;Living+Life+to+the+Fullest" alt="Typing SVG" /></p>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></img> About Me
-👋 Hey there! I'm Prakhar Singhal, a second-year Computer Science student at the International Institute of Information Technology, Hyderabad. Currently immersed in the dynamic world of code and creativity, I'm on a mission to unravel the endless possibilities of technology.
+👋 Hey there! I'm Prakhar Singhal, a forth-year Computer Science student at the International Institute of Information Technology, Hyderabad. Currently immersed in the dynamic world of code and creativity, I'm on a mission to unravel the endless possibilities of technology.
 
 🌍 Living in the vibrant city of Hyderabad, India, I'm not just navigating the complexities of computer science but also embarking on a journey to explore life to the fullest. With a dual degree in Computer Science, every day is an opportunity to learn, grow, and make a positive impact. As I navigate this exciting path, my mantra remains, ```" 
 
